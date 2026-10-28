@@ -1,0 +1,13 @@
+region,slowed,measure,n,median,p,sig
+central,False,d_low_alpha_corr,208,0.0755692555065734,2.2136236435238377e-13,True
+central,False,d_high_alpha_corr,208,0.029688617295304198,0.000168975603868559,True
+central,True,d_low_alpha_corr,368,0.12540743271813035,1.7870515946495528e-32,True
+central,True,d_high_alpha_corr,368,-0.02237813634990535,0.0036162683114642977,True
+frontal,False,d_low_alpha_corr,190,0.0492961941424918,1.2241826788278143e-06,True
+frontal,False,d_high_alpha_corr,190,0.02146948764237025,0.0254085704134728,True
+frontal,True,d_low_alpha_corr,382,0.1271353503489666,8.707136215817277e-36,True
+frontal,True,d_high_alpha_corr,382,-0.0070887625690596,0.05170569095795894,False
+occipital,False,d_low_alpha_corr,215,0.0268531205573936,0.05395097247533733,False
+occipital,False,d_high_alpha_corr,215,-0.0011890541805994,0.98514800545375,False
+occipital,True,d_low_alpha_corr,381,0.1293836467020273,9.977075744578362e-36,True
+occipital,True,d_high_alpha_corr,381,-0.04685874051407,3.2724955205084727e-07,True

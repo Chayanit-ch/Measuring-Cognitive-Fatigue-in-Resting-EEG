@@ -1,0 +1,25 @@
+measure,definition,region,yang,ours,match,median_young,median_older,p_bonf
+ap_exponent,corr,frontal,Young > Older,Young > Older,True,1.2441121834689983,1.0568496495975983,5.279572339677747e-15
+ap_exponent,corr,central,Young > Older,Young > Older,True,1.1196625855036368,0.896137780027029,1.9173486795669746e-18
+ap_exponent,corr,occipital,Young > Older,Young > Older,True,1.0845922519540636,0.9366501097076028,2.8271767569299853e-12
+ap_offset,corr,frontal,Young > Older,Young > Older,True,-11.018135514554192,-11.342528281893488,5.1642818170169484e-21
+ap_offset,corr,central,Young > Older,Young > Older,True,-11.385366533981662,-11.675865476485086,2.3399310215455624e-25
+ap_offset,corr,occipital,Young > Older,Young > Older,True,-11.138174292746546,-11.48701829698404,3.117653929201088e-26
+high_alpha,corr,frontal,Young > Older,Young > Older,True,0.4535412002167242,0.286318494616436,1.2729215620741313e-08
+high_alpha,corr_rel,frontal,Young > Older,Young > Older,True,0.2876937514129055,0.1340769280826131,8.710054872346471e-11
+high_alpha,rel,frontal,Young > Older,Young > Older,True,0.1412416491047046,0.0961112648417321,3.424362183268919e-06
+high_alpha,corr,central,Young > Older,Young > Older,True,0.5498890406871952,0.3738269743570752,4.0489670676580926e-10
+high_alpha,corr_rel,central,Young > Older,Young > Older,True,0.3199445092379223,0.1467310669300786,3.905898712034868e-16
+high_alpha,rel,central,Young > Older,Young > Older,True,0.1880661308460038,0.1119807491490348,1.9933788088083537e-10
+high_alpha,corr,occipital,Young > Older,Young > Older,True,0.8743708189545303,0.6216972725902229,5.57319505542063e-10
+high_alpha,corr_rel,occipital,Young > Older,Young > Older,True,0.4714414593932065,0.2341670753367171,8.712888771889797e-12
+high_alpha,rel,occipital,Young > Older,Young > Older,True,0.2791067609737926,0.1632631615320344,1.147203293567105e-09
+low_alpha,corr,frontal,ns,ns,True,0.5016046372403099,0.5087508796854547,1.0
+low_alpha,corr_rel,frontal,ns,ns,True,0.2161933527532449,0.2283919909894614,1.0
+low_alpha,rel,frontal,ns,ns,True,0.1172964066008078,0.1273704469835342,1.0
+low_alpha,corr,central,ns,ns,True,0.6555620860728956,0.5230226218473186,0.3293215237719624
+low_alpha,corr_rel,central,ns,ns,True,0.2552516671102841,0.2498301464668575,1.0
+low_alpha,rel,central,ns,ns,True,0.1520336450296464,0.1400887900511949,1.0
+low_alpha,corr,occipital,ns,ns,True,0.8026593525600023,0.7821056415372184,1.0
+low_alpha,corr_rel,occipital,ns,ns,True,0.234380926923748,0.263355326978552,1.0
+low_alpha,rel,occipital,ns,ns,True,0.1680345412513466,0.1851210328126996,1.0

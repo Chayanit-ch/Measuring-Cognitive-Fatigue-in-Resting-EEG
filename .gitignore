@@ -1,0 +1,44 @@
+.vscode
+Dataset
+
+# ───────── ข้อมูลดิบ EEG ─────────
+Dataset/
+*.edf
+*.bdf
+*.vhdr
+*.vmrk
+*.eeg
+*.set
+*.fdt
+*.fif
+
+# ───────── ไฟล์กลางทางที่สร้างใหม่ได้ ─────────
+outputs/*.npy
+outputs/*.npz
+outputs/*.pth
+outputs/*.pt
+outputs/*.pkl
+outputs/*.joblib
+outputs/*.h5
+
+# ───────── Jupyter ─────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ───────── Python ─────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ───────── macOS ─────────
+.DS_Store
+.AppleDouble
+._*
+
+# ───────── เบ็ดเตล็ด ─────────
+.vscode/
+.idea/
+*.log
